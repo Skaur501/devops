@@ -1,1 +1,3 @@
-# devops
+# learning shell
+
+Shell Topics :
